@@ -3,3 +3,14 @@
     color: red;
     font-size: 35px;
 }
+
+.flex{
+    display: flex;
+   justify-content: center;
+}
+
+.bot1{
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 2%;
+}
