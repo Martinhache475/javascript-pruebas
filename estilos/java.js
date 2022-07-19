@@ -60,9 +60,9 @@ function fem(){let edad;
       document.write("El número es: " + i + "<br>");
      }
 
-     
+
   var contador = 1   
-var numero = parseInt( prompt("Ingrese cantidad: "));
+var numero =( prompt("Ingrese cantidad: "));
 for (let i = 0; i < numero; i++) {
        document.write(contador++ + " " +'Hola mundo ' + "<br>");}
      
