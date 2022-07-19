@@ -55,16 +55,16 @@ function fem(){let edad;
   //for(i=0;i<=4;i++){
    // document.write("El número es: " + i + "<br>");
    // }
-
+function ejercicio() {
     for(i=20;i<=70;i++){
       document.write("El número es: " + i + "<br>");
      }
-
-
+    }
+function ejercicio2(){
   var contador = 1   
 var numero =( prompt("Ingrese cantidad: "));
 for (let i = 0; i < numero; i++) {
-       document.write(contador++ + " " +'Hola mundo ' + "<br>");}
+       document.write(contador++ + " " +'Hola mundo ' + "<br>");}}
      
 //let edadm;
 //edadm = prompt("si eres mujer Introduce tu edad");
