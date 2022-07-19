@@ -52,8 +52,20 @@ function fem(){let edad;
 //let num; alert(prompt("indique la cantidad de vueltas")); console.log(num); for (num;   document.write(i `hola mundo<br>`);
   //  }
 
+  //for(i=0;i<=4;i++){
+   // document.write("El número es: " + i + "<br>");
+   // }
 
+    for(i=20;i<=70;i++){
+      document.write("El número es: " + i + "<br>");
+     }
 
+     
+  var contador = 1   
+var numero = parseInt( prompt("Ingrese cantidad: "));
+for (let i = 0; i < numero; i++) {
+       document.write(contador++ + " " +'Hola mundo ' + "<br>");}
+     
 //let edadm;
 //edadm = prompt("si eres mujer Introduce tu edad");
 //if (edadm >= 20){
